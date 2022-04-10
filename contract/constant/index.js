@@ -1,0 +1,4 @@
+const DLD_TOKEN_CONTRACT_ADDRESS =
+  "";
+
+module.exports = { DLD_TOKEN_CONTRACT_ADDRESS };
